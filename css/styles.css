@@ -1,0 +1,16 @@
+.d4-shape {
+	position: relative;
+	width: 0;
+	height: 0;
+	border-left: 100px solid transparent;
+	border-right: 100px solid transparent;
+	border-bottom: 175px solid #4512cd;
+}
+
+.d4-text {
+	position: absolute;
+	color: #FFF;
+	font-size: 20px;
+	top: 100px;
+	transform: translate(-25px, -50px);
+}
