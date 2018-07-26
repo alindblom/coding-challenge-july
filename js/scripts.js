@@ -26,7 +26,7 @@ d4Shape.addEventListener('mouseleave', (e) => {
 });
 
 /*
-This eventListener waits for a click before generating a random number
+This eventListener waits for a click before generating a random  number
 for that dice.
 */
 d4Shape.addEventListener('click', (e) => {
